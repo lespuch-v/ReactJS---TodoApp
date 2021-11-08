@@ -1,3 +1,5 @@
 <h1>ReactJS TodoAPP</h1>
+<h2>Mandatory APP for everyone who is starting with React</h2>
 
-![ReactJS](https://user-images.githubusercontent.com/36127590/140743520-f503a961-8090-4b49-b3cc-fb0d5376b4c1.png)
+
+![ReactJS](https://user-images.githubusercontent.com/36127590/140743691-95387490-e07f-4843-a8cb-f57ab3e7a80a.png)
