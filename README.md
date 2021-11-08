@@ -4,7 +4,7 @@
 Used:
 <ul>
   <li>JavaScript</li>
-  <li>React</li>
+  <li>React - https://reactjs.org/</li>
   <li>HTML</li>
   <li>CSS</li>
   </ul>
